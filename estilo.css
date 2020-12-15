@@ -1,0 +1,14 @@
+#arbol{
+align-items: center;
+text-align: center;
+color: green;
+background-color: rgb(0, 17, 170);
+};
+
+.a{
+color: rgb(9, 158, 22);
+};
+
+.base{
+color: rgb(49, 28, 28) !important;
+};
